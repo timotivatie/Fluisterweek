@@ -135,10 +135,10 @@ function HomePageContent() {
     const width = 320;
     const viewportWidth = typeof window !== 'undefined' ? window.innerWidth : width + 32;
     const left = Math.max(16, Math.min(lockedPopover.left - width / 2, viewportWidth - width - 16));
-    return {
-      top: lockedPopover.top,
-      left
-    };
+    const viewportHeight = typeof window !== 'undefined' ? window.innerHeight : 0;
+    const popoverHeight = 150;
+    const top = Math.min(lockedPopover.top, viewportHeight ? viewportHeight - popoverHeight : lockedPopover.top);
+    return { top, left };
   }, [lockedPopover]);
 
   const closeLockedPopover = () => {
@@ -323,10 +323,10 @@ function HomePageContent() {
     } else {
       const rect = event?.currentTarget.getBoundingClientRect();
       if (rect) {
-        setLockedPopover({
-          top: rect.top + window.scrollY + rect.height + 8,
-          left: rect.left + window.scrollX + rect.width / 2
-        });
+      setLockedPopover({
+        top: rect.top + window.scrollY + rect.height,
+        left: rect.left + window.scrollX + rect.width / 2
+      });
       } else {
         setLockedPopover(null);
       }

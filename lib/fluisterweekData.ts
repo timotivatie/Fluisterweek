@@ -29,7 +29,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '18 min',
     focus: 'Je ademhaling als afstandsbediening',
     highlight: 'Met je ademhaling kan je je zenuwstelsel in enkele minuten het signaal geven dat het veilig is om te vertragen.',
-    videoUrl: 'https://youtu.be/9N9acKfEuO4,
+    videoUrl: 'https://www.youtube.com/watch?v=ysz5S6PUM-U',
     intention: 'Vandaag bewust vertragen en je lichaam laten ervaren dat rust van binnenuit kan ontstaan.',
     steps: [
       'Ga zitten met je voeten plat op de grond en maak jezelf lang.',
@@ -50,7 +50,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '21 min',
     focus: 'Zakken uit je hoofd, in je lichaam',
     highlight: 'Door zacht te bewegen en te voelen, kan vastgehouden spanning in je nek en schouders weer beginnen loslaten.',
-    videoUrl: 'https://youtu.be/sVnE0G8xZfg',
+    videoUrl: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
     intention: 'Vandaag ruimte maken in je lichaam en leren luisteren zonder iets te willen oplossen.',
     steps: [
       'Ga comfortabel zitten en zet je voeten plat op de grond, maak je rug lang.',
@@ -71,7 +71,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '16 min',
     focus: 'Kleine pauzes doorheen je dag',
     highlight: 'Korte micropauzes kunnen je stressniveau laten zakken, zelfs wanneer je weinig tijd hebt.',
-    videoUrl: 'https://youtu.be/WvQ847vEwEg,
+    videoUrl: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
     intention: 'Vandaag vaker even stoppen en voelen hoe het écht met je gaat.',
     steps: [
       'Wrijf je handen tegen elkaar tot ze warm worden.',
@@ -91,7 +91,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '19 min',
     focus: 'Luisteren naar je lichaam na het eten',
     highlight: 'Je lichaam geeft na elke maaltijd signalen die je kunnen vertellen wat jou voedt en wat niet.',
-    videoUrl: 'https://youtu.be/yoA2XrKJ0pk',
+    videoUrl: 'https://www.youtube.com/watch?v=QH2-TGUlwu4',
     intention: 'Vandaag nieuwsgierig observeren zonder oordeel of regels.',
     steps: [
       'Eet je maaltijd rustig en bewust.',
@@ -112,7 +112,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '17 min',
     focus: 'Omgaan met stressgedachten',
     highlight: 'Je gedachten willen je beschermen, maar je kan ze wel zachter maken.',
-    videoUrl: 'https://youtu.be/BpZ2rGaev_I',
+    videoUrl: 'https://www.youtube.com/watch?v=lY2yjAdbvdQ',
     intention: 'Vandaag je hoofd leren ondersteunen in plaats van bestrijden.',
     steps: [
       'Noteer je meest voorkomende stressgedachte.',
@@ -131,7 +131,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '20 min',
     focus: 'Herstellen via slaap',
     highlight: 'Een herkenbare avondroutine helpt je lichaam om tot rust te komen en beter te herstellen.',
-    videoUrl: 'https://youtu.be/mNLb2cj67NM',
+    videoUrl: 'https://www.youtube.com/watch?v=GlrxcuEDyF8',
     intention: 'Vandaag je avond zachter afronden.',
     steps: [
       'Kies één vast moment om je avond te vertragen en leg je telefoon bewust eerder weg.',
@@ -151,7 +151,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '22 min',
     focus: 'Integreren en kiezen',
     highlight: 'Je kan op elk moment opnieuw kiezen voor rust en balans.',
-    videoUrl: 'https://youtu.be/VGNRUd4KvO8',
+    videoUrl: 'https://www.youtube.com/watch?v=HgzGwKwLmgM',
     intention: 'Vandaag ontdekken wat jij wil meenemen uit deze week.',
     steps: [
       'Kijk terug op de voorbije dagen en noteer welke oefening je het meeste deugd deed.',

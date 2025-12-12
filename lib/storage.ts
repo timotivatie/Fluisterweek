@@ -7,4 +7,4 @@ export const STORAGE_KEYS = {
 } as const;
 export type StorageKey = (typeof STORAGE_KEYS)[keyof typeof STORAGE_KEYS];
 
-export const DATA_VERSION = '2025-12-14';
+export const DATA_VERSION = '2025-12-15';

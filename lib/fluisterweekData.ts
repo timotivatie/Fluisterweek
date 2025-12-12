@@ -40,7 +40,15 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
       'Blijf nadien heel even stil zitten.',
       'Voel wat er veranderd is in je lichaam, zonder iets te willen aanpassen.'
     ],
-    reflection: 'Wat verandert er in je lichaam wanneer je je uitademing verlengt?'
+    reflection: 'Wat verandert er in je lichaam wanneer je je uitademing verlengt?',
+    extraExercises: [
+      {
+        title: 'Oefening: ademhaling',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-1-reset-je-zenuwstelsel_oefening-ademhaling-1/s-o5u3atR6Fo5',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725079%3Fsecret_token%3Ds-o5u3atR6Fo5&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-1-reset-je-zenuwstelsel_oefening-ademhaling-1/s-o5u3atR6Fo5" title="Dag 1 reset je zenuwstelsel_oefening: ademhaling" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 1 reset je zenuwstelsel_oefening: ademhaling</a></div>`
+      }
+    ]
   },
   {
     title: 'Dag 2 · Van ‘moeten’ naar ‘voelen’',
@@ -50,7 +58,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '21 min',
     focus: 'Zakken uit je hoofd, in je lichaam',
     highlight: 'Door zacht te bewegen en te voelen, kan vastgehouden spanning in je nek en schouders weer beginnen loslaten.',
-    videoUrl: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
+    videoUrl: 'https://youtu.be/sVnE0G8xZfg',
     intention: 'Vandaag ruimte maken in je lichaam en leren luisteren zonder iets te willen oplossen.',
     steps: [
       'Ga comfortabel zitten en zet je voeten plat op de grond, maak je rug lang.',
@@ -61,7 +69,15 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
       'Rol een paar keer je schouders naar achter en laat spanning los.',
       'Blijf even stil zitten en voel wat deze oefening met je lichaam gedaan heeft.'
     ],
-    reflection: 'Waar in je lichaam voel je vandaag spanning, en wat gebeurt er als je daar even bij blijft?'
+    reflection: 'Waar in je lichaam voel je vandaag spanning, en wat gebeurt er als je daar even bij blijft?',
+    extraExercises: [
+      {
+        title: 'Oefening: voelen',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-2-van-moeten-naar-voelen_oefening-2-voelen-2/s-4Rb81Y2nYHD',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725091%3Fsecret_token%3Ds-4Rb81Y2nYHD&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-2-van-moeten-naar-voelen_oefening-2-voelen-2/s-4Rb81Y2nYHD" title="Dag 2 Van Moeten naar Voelen_oefening 2 Voelen" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 2 Van Moeten naar Voelen_oefening 2 Voelen</a></div>`
+      }
+    ]
   },
   {
     title: 'Dag 3 · De kracht van mini-pauzes',
@@ -71,7 +87,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '16 min',
     focus: 'Kleine pauzes doorheen je dag',
     highlight: 'Korte micropauzes kunnen je stressniveau laten zakken, zelfs wanneer je weinig tijd hebt.',
-    videoUrl: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
+    videoUrl: 'https://youtu.be/WvQ847vEwEg',
     intention: 'Vandaag vaker even stoppen en voelen hoe het écht met je gaat.',
     steps: [
       'Wrijf je handen tegen elkaar tot ze warm worden.',
@@ -81,7 +97,21 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
       'Adem zes tellen uit, rustig en zacht, herhaal dit een paar keer.',
       'Plan vandaag bewust drie micropauzes en zet eventueel een reminder.'
     ],
-    reflection: 'Wat merk je in je lichaam wanneer je jezelf een korte pauze gunt?'
+    reflection: 'Wat merk je in je lichaam wanneer je jezelf een korte pauze gunt?',
+    extraExercises: [
+      {
+        title: 'Oefening 1',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-3-de-kracht-van-micro-pauzes_oefening-1-3/s-anVwgPsoC2i',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725094%3Fsecret_token%3Ds-anVwgPsoC2i&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-3-de-kracht-van-micro-pauzes_oefening-1-3/s-anVwgPsoC2i" title="Dag 3 De kracht van micro-pauzes_oefening 1" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 3 De kracht van micro-pauzes_oefening 1</a></div>`
+      },
+      {
+        title: 'Oefening 2',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-3-de-kracht-van-micro-pauzes_oefening-2-4/s-nTQajKYZZYW',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725085%3Fsecret_token%3Ds-nTQajKYZZYW&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-3-de-kracht-van-micro-pauzes_oefening-2-4/s-nTQajKYZZYW" title="Dag 3 De kracht van micro-pauzes_Oefening 2" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 3 De kracht van micro-pauzes_Oefening 2</a></div>`
+      }
+    ]
   },
   {
     title: 'Dag 4 · Wat voeding je vertelt',
@@ -91,7 +121,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '19 min',
     focus: 'Luisteren naar je lichaam na het eten',
     highlight: 'Je lichaam geeft na elke maaltijd signalen die je kunnen vertellen wat jou voedt en wat niet.',
-    videoUrl: 'https://www.youtube.com/watch?v=QH2-TGUlwu4',
+    videoUrl: 'https://youtu.be/yoA2XrKJ0pk',
     intention: 'Vandaag nieuwsgierig observeren zonder oordeel of regels.',
     steps: [
       'Eet je maaltijd rustig en bewust.',
@@ -112,7 +142,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '17 min',
     focus: 'Omgaan met stressgedachten',
     highlight: 'Je gedachten willen je beschermen, maar je kan ze wel zachter maken.',
-    videoUrl: 'https://www.youtube.com/watch?v=lY2yjAdbvdQ',
+    videoUrl: 'https://youtu.be/BpZ2rGaev_I',
     intention: 'Vandaag je hoofd leren ondersteunen in plaats van bestrijden.',
     steps: [
       'Noteer je meest voorkomende stressgedachte.',
@@ -131,7 +161,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '20 min',
     focus: 'Herstellen via slaap',
     highlight: 'Een herkenbare avondroutine helpt je lichaam om tot rust te komen en beter te herstellen.',
-    videoUrl: 'https://www.youtube.com/watch?v=GlrxcuEDyF8',
+    videoUrl: 'https://youtu.be/mNLb2cj67NM',
     intention: 'Vandaag je avond zachter afronden.',
     steps: [
       'Kies één vast moment om je avond te vertragen en leg je telefoon bewust eerder weg.',
@@ -141,7 +171,21 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
       'Herhaal dit een paar minuten.',
       'Laat je lichaam volledig zakken in het bed.'
     ],
-    reflection: 'Wat heeft jouw lichaam ’s avonds nodig om te kunnen loslaten?'
+    reflection: 'Wat heeft jouw lichaam ’s avonds nodig om te kunnen loslaten?',
+    extraExercises: [
+      {
+        title: 'Oefening 1',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-6-slaap-als-jouw-geheime-wapen_oefening-1-5/s-IZyfPAKJ3A1',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725082%3Fsecret_token%3Ds-IZyfPAKJ3A1&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-6-slaap-als-jouw-geheime-wapen_oefening-1-5/s-IZyfPAKJ3A1" title="Dag 6 - Slaap als jouw geheime wapen_oefening 1" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 6 - Slaap als jouw geheime wapen_oefening 1</a></div>`
+      },
+      {
+        title: 'Oefening 2',
+        displayType: 'player',
+        url: 'https://soundcloud.com/ann-157486051/dag-6-slaap-als-jouw-geheime-wapen_oefening-2-6/s-kjFXl0Ecgzw',
+        embedHtml: `<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2228725088%3Fsecret_token%3Ds-kjFXl0Ecgzw&color=%23ff9900&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ann-157486051" title="Ann" target="_blank" style="color: #cccccc; text-decoration: none;">Ann</a> · <a href="https://soundcloud.com/ann-157486051/dag-6-slaap-als-jouw-geheime-wapen_oefening-2-6/s-kjFXl0Ecgzw" title="Dag 6 - Slaap als jouw geheime wapen_oefening 2" target="_blank" style="color: #cccccc; text-decoration: none;">Dag 6 - Slaap als jouw geheime wapen_oefening 2</a></div>`
+      }
+    ]
   },
   {
     title: 'Dag 7 · Jouw persoonlijke balans-plan',
@@ -151,7 +195,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '22 min',
     focus: 'Integreren en kiezen',
     highlight: 'Je kan op elk moment opnieuw kiezen voor rust en balans.',
-    videoUrl: 'https://www.youtube.com/watch?v=HgzGwKwLmgM',
+    videoUrl: 'https://youtu.be/VGNRUd4KvO8',
     intention: 'Vandaag ontdekken wat jij wil meenemen uit deze week.',
     steps: [
       'Kijk terug op de voorbije dagen en noteer welke oefening je het meeste deugd deed.',

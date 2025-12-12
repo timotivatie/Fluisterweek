@@ -29,7 +29,7 @@ export const BASE_FLUISTERWEEK: FluisterDag[] = [
     duration: '18 min',
     focus: 'Je ademhaling als afstandsbediening',
     highlight: 'Met je ademhaling kan je je zenuwstelsel in enkele minuten het signaal geven dat het veilig is om te vertragen.',
-    videoUrl: 'https://www.youtube.com/watch?v=ysz5S6PUM-U',
+    videoUrl: 'https://youtu.be/9N9acKfEuO4',
     intention: 'Vandaag bewust vertragen en je lichaam laten ervaren dat rust van binnenuit kan ontstaan.',
     steps: [
       'Ga zitten met je voeten plat op de grond en maak jezelf lang.',

@@ -1,10 +1,12 @@
 'use client';
 export const dynamic = "force-dynamic";
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { Suspense, useCallback, useEffect, useMemo, useState } from 'react';
 import type { MouseEvent as ReactMouseEvent } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { BASE_FLUISTERWEEK, type FluisterDag, type ExtraExercise } from '@/lib/fluisterweekData';
 import { DATA_VERSION, STORAGE_KEYS } from '@/lib/storage';
+
+
 
 const DAY_INTERVAL_MS = 24 * 60 * 60 * 1000;
 
@@ -110,7 +112,7 @@ const getExerciseEmbedSrc = (exercise: ExtraExercise) => {
   return exercise.url ? buildSoundCloudEmbed(exercise.url) : '';
 };
 
-export default function HomePage() {
+function HomePageContent() {
   const [startTimestamp, setStartTimestamp] = useState<number | null>(null);
   const [progress, setProgress] = useState<ProgressMap>({});
   const [overrides, setOverrides] = useState<DayOverrides>({});
@@ -615,5 +617,13 @@ export default function HomePage() {
         </div>
       )}
     </main>
+  );
+}
+
+export default function HomePage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-[#919668]" />}>
+      <HomePageContent />
+    </Suspense>
   );
 }
